@@ -1,1 +1,1 @@
-# binaryCLIP
+you can find negation clip weights under https://huggingface.co/jerryray/negationclip/tree/main
